@@ -1,0 +1,11 @@
+.container{
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+.headings{
+    color: blue;
+}
+body{
+    background-color:lightgray;
+}
